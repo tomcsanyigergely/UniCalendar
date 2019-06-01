@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">UniCalendar</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="first_title">Events</string>
+    <string name="second_title">Subjects</string>
+    <string name="third_title">Requirements</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="clear_all">Clear all</string>
+    <string name="select_all">Select all</string>
+    <string name="select_date">Select date</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="subject_name">Subject name</string>
+    <string name="add_subject">Add subject</string>
+    <string name="visible">Visible</string>
+    <string name="add_requirement">Add requirement</string>
+    <string name="requirement_name">Requirement name</string>
+    <string name="add_event">Add event</string>
+    <string name="edit_subject">Edit subject</string>
+    <string name="edit_requirement">Edit requirement</string>
+    <string name="edit_event">Edit event</string>
+    <string name="subject">Subject:</string>
+    <string name="requirement">Requirement:</string>
+    <string name="notification_text">Schedule notification (# of days before event):</string>
+    <string name="notification_on">Notification on</string>
+    <string name="notification_off">Notification off</string>
+    <string name="show_events_until">Show events until:</string>
+</resources>

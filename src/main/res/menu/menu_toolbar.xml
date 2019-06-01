@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_select_date"
+        android:title="@string/select_date"
+        android:icon="@drawable/calendar_range"
+        app:showAsAction="always"
+        android:checkableBehavior="none">
+    </item>
+
+    <item
+        android:id="@+id/menu_notification_on"
+        android:title="@string/notification_on"
+        android:icon="@drawable/bell_off"
+        app:showAsAction="always"
+        android:checkableBehavior="none">
+    </item>
+
+    <item
+        android:id="@+id/menu_notification_off"
+        android:title="@string/notification_off"
+        android:icon="@drawable/bell"
+        app:showAsAction="always"
+        android:checkableBehavior="none">
+    </item>
+
+    <item
+        android:id="@+id/menu_select_all"
+        android:title="@string/select_all"
+        android:icon="@drawable/all_inclusive"
+        app:showAsAction="always"
+        android:checkableBehavior="none">
+    </item>
+
+    <item
+        android:id="@+id/menu_clear_all"
+        android:title="@string/clear_all"
+        android:icon="@drawable/delete"
+        app:showAsAction="always"
+        android:checkableBehavior="none">
+    </item>
+
+</menu>
